@@ -1,6 +1,6 @@
 <html>
  <head>
-  <title>Bienvenidos</title>
+  <title>Bienvenidos1</title>
  </head>
  <body>
  <?php echo '<p>Hola Mundo</p>'; ?>
